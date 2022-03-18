@@ -1,2 +1,2 @@
 # operation_speed_checker
-C program show the operation speed of different operations on your machine.
+C program to show the operation speed of different operations on your machine.
